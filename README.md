@@ -62,6 +62,7 @@ As AI-Router evolves, we are exploring additional features and improvements, inc
 🔹 **AI-Router SDK for Developers** – Providing a Python-based SDK to allow seamless integration with existing AI applications.  
 🔹 **Enhanced Learning Mechanism** – AI-Router will implement a feedback loop where models adapt based on user interactions.  
 🔹 **Cross-Domain AI Applications** – Exploring how AI-Router can facilitate AI workflows across different industries such as healthcare, finance, and automation.  
+🔹 **MLOps-Driven AI Selection & Compute Infrastructure** – Developing a benchmarking system for evaluating AI model efficiency and selecting the best models dynamically. We are also exploring **GPU cloud solutions and MLOps tools** to optimize performance and scalability. If you have insights or resources that could help, we’d love to hear from you!  
 
 We welcome **feedback, suggestions, and contributors** who are excited about these possibilities! 🚀  
 
