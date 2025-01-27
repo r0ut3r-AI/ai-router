@@ -59,6 +59,9 @@ As AI-Router evolves, we are exploring additional features and improvements, inc
 🔹 **AI Personality Tuning** – Allowing users to configure AI behaviors, emotional tones, and expertise levels.  
 🔹 **Self-Optimizing Model Selection** – AI-Router will learn from past interactions to route queries more effectively.  
 🔹 **Decentralized AI Routing** – Investigating the feasibility of running AI-Router on a distributed network.  
+🔹 **AI-Router SDK for Developers** – Providing a Python-based SDK to allow seamless integration with existing AI applications.  
+🔹 **Enhanced Learning Mechanism** – AI-Router will implement a feedback loop where models adapt based on user interactions.  
+🔹 **Cross-Domain AI Applications** – Exploring how AI-Router can facilitate AI workflows across different industries such as healthcare, finance, and automation.  
 
 We welcome **feedback, suggestions, and contributors** who are excited about these possibilities! 🚀  
 
@@ -72,12 +75,15 @@ This project is open to collaboration! Here’s how you can get involved:
 - **Product Designers**: Improve the UX/UI for AI configuration and monitoring.  
 - **Sponsors & Investors**: Help scale this project with funding or cloud resources.  
 
-If you are interested in contributing, **open an issue or reach out!** ✉️   
+If you are interested in contributing, **open an issue or reach out!** ✉️  
+
 ---
 
 ## 📬 Contact  
-For inquiries, collaborations, or suggestions, feel free to reach out.  
-📩 **Email:** [ai.router.project@gmail.com](mailto:ai.router.project@gmail.com) 
+For inquiries, collaborations, or suggestions, feel free to reach out:  
+📩 **Email:** [ai.router.project@gmail.com](mailto:ai.router.project@gmail.com)  
+
 ---  
 
 🎉 *Stay tuned for updates as we continue to improve AI interactions!*
+
