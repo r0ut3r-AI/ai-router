@@ -72,14 +72,12 @@ This project is open to collaboration! Here’s how you can get involved:
 - **Product Designers**: Improve the UX/UI for AI configuration and monitoring.  
 - **Sponsors & Investors**: Help scale this project with funding or cloud resources.  
 
-If you are interested in contributing, **open an issue or reach out!** ✉️  
-📩 **Email:** [ai.router.project@gmail.com](mailto:ai.router.project@gmail.com)  
-
+If you are interested in contributing, **open an issue or reach out!** ✉️   
 ---
 
 ## 📬 Contact  
 For inquiries, collaborations, or suggestions, feel free to reach out.  
-
+📩 **Email:** [ai.router.project@gmail.com](mailto:ai.router.project@gmail.com) 
 ---  
 
 🎉 *Stay tuned for updates as we continue to improve AI interactions!*
